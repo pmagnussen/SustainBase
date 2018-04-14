@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SustainBase.Contract\SustainBase.Contract.csproj" />
+    <ProjectReference Include="..\SustainBase.DataAccess\SustainBase.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,42 @@
+@media (min-width: 992px) {
+  .banner {
+    margin: 40px 0 100px;
+    background-color: #01ABE9;
+    height: 100px; } }
+
+.banner-text {
+  font-weight: 600;
+  color: #303030; }
+
+.category-header {
+  border-bottom: 1px solid #efefef;
+  padding: 10px 0; }
+
+.category-content {
+  color: #333; }
+
+.navbar {
+  background-color: #FFFFFF; }
+
+.navbar-logo {
+  max-width: 300px; }
+
+.navbar-inverse {
+  border: none; }
+
+.navbar-inverse .navbar-brand {
+  color: #0a0b0a; }
+
+.navbar-inverse .navbar-nav > li > a {
+  color: #0a0b0a; }
+
+footer {
+  background-color: #363636;
+  height: 200px; }
+
+.footer-text {
+  padding-top: 80px;
+  color: rgba(255, 255, 255, 0.75);
+  text-align: center; }
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdHlsZXMvaG9tZS5jc3MiLCJzb3VyY2VSb290IjoiIn0=*/
